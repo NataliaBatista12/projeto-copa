@@ -42,8 +42,8 @@ projeto-copa/
 - Ilustrações próprias em SVG (sem uso de imagens de terceiros)
 
 ## Autor
-[Seu nome completo aqui]
+Natália Freire Batista
 
 ## Links
-- Repositório: https://github.com/SEU-USUARIO/projeto-copa
-- GitHub Pages: https://SEU-USUARIO.github.io/projeto-copa/
+- Repositório: https://github.com/NataliaBatista12/projeto-copa.git
+- GitHub Pages: https://nataliabatista12.github.io/projeto-copa/
