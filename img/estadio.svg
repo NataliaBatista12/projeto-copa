@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" role="img" aria-label="Estádio estilizado">
+  <defs>
+    <linearGradient id="fieldGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1F7A4D"/>
+      <stop offset="100%" stop-color="#0B3D2E"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="200" cy="150" rx="190" ry="60" fill="url(#fieldGrad)"/>
+  <ellipse cx="200" cy="150" rx="190" ry="60" fill="none" stroke="#F6F1E4" stroke-opacity="0.5" stroke-width="2"/>
+  <ellipse cx="200" cy="150" rx="60" ry="19" fill="none" stroke="#F6F1E4" stroke-opacity="0.5" stroke-width="2"/>
+  <line x1="200" y1="90" x2="200" y2="210" stroke="#F6F1E4" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M10 150 C10 70 90 20 200 20 C310 20 390 70 390 150" fill="none" stroke="#D9A404" stroke-width="10" stroke-linecap="round"/>
+  <path d="M30 145 C30 82 100 40 200 40 C300 40 370 82 370 145" fill="none" stroke="#F6F1E4" stroke-opacity="0.3" stroke-width="4"/>
+  <rect x="4" y="8" width="10" height="30" fill="#D9A404"/>
+  <rect x="386" y="8" width="10" height="30" fill="#D9A404"/>
+</svg>

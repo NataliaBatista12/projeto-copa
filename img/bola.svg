@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Bola de futebol estilizada">
+  <circle cx="50" cy="50" r="46" fill="#F6F1E4" stroke="#16231C" stroke-width="3"/>
+  <polygon points="50,28 62,37 57,52 43,52 38,37" fill="#16231C"/>
+  <path d="M50 28 L38 37 M50 28 L62 37 M43 52 L34 64 M57 52 L66 64 M43 52 L57 52" stroke="#16231C" stroke-width="3" fill="none"/>
+  <path d="M8 40 L38 37 M92 40 L62 37 M20 82 L34 64 M80 82 L66 64 M50 96 L50 84" stroke="#16231C" stroke-width="2.5" fill="none"/>
+</svg>
