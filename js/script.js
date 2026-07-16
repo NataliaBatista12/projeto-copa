@@ -41,3 +41,14 @@ function marcarLinkAtivo() {
 
 window.addEventListener("scroll", marcarLinkAtivo);
 window.addEventListener("load", marcarLinkAtivo);
+
+// ===================== Fecha o menu mobile ao clicar em um link =====================
+const menu = document.getElementById("menuPrincipal");
+navLinks.forEach((link) => {
+  link.addEventListener("click", () => {
+    if (menu.classList.contains("show")) {
+      const bsCollapse = bootstrap.Collapse.getOrCreateInstance(menu);
+      bsCollapse.hide();
+    }
+  });
+});
